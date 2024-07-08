@@ -1,12 +1,7 @@
 👋 Hi, there
-```cpp
-|_|_|_|_|_  |_          |_         |_      |_    |_  |_        |_  |_|_|_|_|_
-|_          |_                       |_   |_         |_|_      |_  |_
-|_          |_|_|_|_|_  |_             |_        |_  |_  |_    |_  |_
-|_          |_      |_  |_           |_   |_     |_  |_    |_  |_  |_  |_|_|_
-|_          |_      |_  |_         |_       |_   |_  |_      |_|_  |_      |_ 
-|_|_|_|_|_  |_      |_  |_       |_          |_  |_  |_        |_  |_|_|_|_|_
-```
+
+![Metrics](https://github.com/martingalexing/martingalexing/blob/main/github-metrics.svg)
+
 🧑🏻‍💻 Website: [OpenChi.Life](https://openchi.life)
 
 💼 2024 Summer Internship at [N8CIR](https://n8cir.org.uk/) Bede
