@@ -1,6 +1,18 @@
 👋 Hi, there
+```cpp
+|_|_|_|_|_  |_          |_         |_      |_    |_  |_        |_  |_|_|_|_|_
+|_          |_                       |_   |_         |_|_      |_  |_
+|_          |_|_|_|_|_  |_             |_        |_  |_  |_    |_  |_
+|_          |_      |_  |_           |_   |_     |_  |_    |_  |_  |_  |_|_|_
+|_          |_      |_  |_         |_       |_   |_  |_      |_|_  |_      |_ 
+|_|_|_|_|_  |_      |_  |_       |_          |_  |_  |_        |_  |_|_|_|_|_
+```
+🧑🏻‍💻 Website: [OpenChi.Life](https:openchi.life)
 
-<!---
-MartingaleXing/MartingaleXing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 2024 Summer Internship at [N8CIR](https://n8cir.org.uk/) Bede
+
+🎓 Graduated from University of Liverpool 🏴󠁧󠁢󠁥󠁮󠁧󠁿 - BSc Computer Science (Hons, First Class)
+
+📖 24fall in Unversity of Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 - MSc Artificial Intelligence
+
+🌟 Interest Points: ```NLP``` ```LLMs``` ```Algorithm Research``` ```High Performance Computing``` ```Software Architecture```
