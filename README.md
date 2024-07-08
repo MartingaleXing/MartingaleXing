@@ -7,7 +7,7 @@
 |_          |_      |_  |_         |_       |_   |_  |_      |_|_  |_      |_ 
 |_|_|_|_|_  |_      |_  |_       |_          |_  |_  |_        |_  |_|_|_|_|_
 ```
-🧑🏻‍💻 Website: [OpenChi.Life](https:openchi.life)
+🧑🏻‍💻 Website: [OpenChi.Life](https://openchi.life)
 
 💼 2024 Summer Internship at [N8CIR](https://n8cir.org.uk/) Bede
 
